@@ -1,0 +1,15 @@
+D:\NashTech_Projects\Assignment_C#\D2\bin\Debug\net6.0\D2.exe
+D:\NashTech_Projects\Assignment_C#\D2\bin\Debug\net6.0\D2.deps.json
+D:\NashTech_Projects\Assignment_C#\D2\bin\Debug\net6.0\D2.runtimeconfig.json
+D:\NashTech_Projects\Assignment_C#\D2\bin\Debug\net6.0\D2.dll
+D:\NashTech_Projects\Assignment_C#\D2\bin\Debug\net6.0\ref\D2.dll
+D:\NashTech_Projects\Assignment_C#\D2\bin\Debug\net6.0\D2.pdb
+D:\NashTech_Projects\Assignment_C#\D2\obj\Debug\net6.0\D2.csproj.AssemblyReference.cache
+D:\NashTech_Projects\Assignment_C#\D2\obj\Debug\net6.0\D2.GeneratedMSBuildEditorConfig.editorconfig
+D:\NashTech_Projects\Assignment_C#\D2\obj\Debug\net6.0\D2.AssemblyInfoInputs.cache
+D:\NashTech_Projects\Assignment_C#\D2\obj\Debug\net6.0\D2.AssemblyInfo.cs
+D:\NashTech_Projects\Assignment_C#\D2\obj\Debug\net6.0\D2.csproj.CoreCompileInputs.cache
+D:\NashTech_Projects\Assignment_C#\D2\obj\Debug\net6.0\D2.dll
+D:\NashTech_Projects\Assignment_C#\D2\obj\Debug\net6.0\ref\D2.dll
+D:\NashTech_Projects\Assignment_C#\D2\obj\Debug\net6.0\D2.pdb
+D:\NashTech_Projects\Assignment_C#\D2\obj\Debug\net6.0\D2.genruntimeconfig.cache
